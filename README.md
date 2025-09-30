@@ -37,4 +37,4 @@
 
 ---
 
-## &gt; &gt; **CERTIFICACIONES CLAVE**
+<p align="center" style="font-size: 1.0em; margin-top: 20px; color:
