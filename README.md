@@ -37,4 +37,5 @@
 
 ---
 
-<p align="center" style="font-size: 1.0em; margin-top: 20px; color:
+<p align="center" style="font-size: 1.0em; margin-top: 20px; color: #FF00FF;">**[ SYSTEM_STATUS: READY FOR DEPLOYMENT ]**</p>
+</div>
