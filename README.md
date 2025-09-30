@@ -1,1 +1,81 @@
-<div style="font-family: 'Space Grotesk', 'Inter', sans-serif; color: #E0E0E0; background-color: #222222; padding: 20px; border-radius: 10px;"><h1 align="center" style="color: #BE29EC;">_SYNTAX_ERROR: HELLO, WORLD!_</h1><p align="center" style="font-size: 1.2em;"><span style="color: #00FFFF;">_Booting up..._</span> <br> Welcome to my digital nexus. I am a <strong style="color: #BE29EC;">Full Stack Developer</strong> with over 4 years of experience, crafting robust and innovative web and mobile applications.</p><p align="center"><a href="https://www.linkedin.com/in/leonardo-gelves" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"/></a></p><h2 style="color: #00FFFF;">_&gt; OVERVIEW_</h2><p>As a seasoned Full Stack Developer, my expertise lies in the complete lifecycle of application development—from conceptual design to deployment and ongoing maintenance. I thrive on building efficient and scalable solutions, leveraging a diverse tech stack to deliver high-quality software.</p><p>I am a proactive professional, deeply committed to teamwork and continuous process improvement. My focus is always on the quality of the software, ensuring that every line of code contributes to a seamless user experience and robust system performance.</p><h2 style="color: #BE29EC;">_&gt; SKILLS_</h2><p>My arsenal includes a wide array of technologies and tools, allowing me to tackle complex challenges across various platforms:</p><p align="center"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/.NET-%235C2D91.svg?&style=for-the-badge&logo=.net&logoColor=white" alt=".NET" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin-right: 5px; margin-bottom: 5px;"/><br><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/Azure-%230078D4.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Databases" style="margin-right: 5px; margin-bottom: 5px;"/><img src="https://img.shields.io/badge/NoSQL-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases" style="margin-right: 5px; margin-bottom: 5px;"/></p><h2 style="color: #00FFFF;">_&gt; EXPERIENCE_</h2><p>With over <strong style="color: #BE29EC;">4 years of hands-on experience</strong>, I have specialized in the full spectrum of Full Stack Development. My journey includes designing scalable architectures, developing robust backend services, and crafting intuitive user interfaces for a variety of web and mobile applications. I am adept at managing the entire development lifecycle, ensuring high-quality software delivery and continuous improvement.</p><h2 style="color: #BE29EC;">_&gt; EDUCATION & CERTIFICATIONS_</h2><ul style="list-style-type: none; padding-left: 0;"><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Spring Framework 6 & Spring Boot 3_</span> - Udemy (Expires: Sept. 2025, ID: UC-906c0317-fa28-41e9-9289-82d5dcf07e0e)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Arquitectura de Aplicaciones Empresariales con .NET 8_</span> - Udemy (Expires: Apr. 2025, ID: UC-ba9c1a5b-6c00-4112-8c73-a9f03077a8e8)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; [Appsco] Curso Profesional de Git y GitHub_</span> - Platzi (Expires: Sept. 2022, ID: 4946322d-b0af-4b31-94a0-ef5c2a75fceb)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Curso API REST con NodeJS, Express, MongoDB y JWT_</span> - Cursa (Expires: Aug. 2022, ID: u1554911)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Curso Lógica de Programación_</span> - Cursa (Expires: Aug. 2022, ID: c1442-1554911)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Curso Programación Java Intermedio_</span> - Cursa (Expires: Aug. 2022, ID: c1547-1554911)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; AWS Educate Introduction to Cloud 101_</span> - Amazon Web Services (AWS) (Expires: May. 2022)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Curso Sistema de Ventas Profesional Java & MySQL y SQL Full Stack_</span> - Udemy (Expires: Jan. 2022, ID: UC-13909f78-a697-4cc0-a9fc-a66407d4380d)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Curso Universidad Java - De Cero a Experto_</span> - Udemy (Expires: Jan. 2022, ID: UC-b0a9c2f9-2523-4b44-81b9-812bf4695904)</li><li style="margin-bottom: 10px;"><span style="color: #00FFFF;">_&gt; Scrum Fundamentals Certified_</span> - Vabro.ai and VMEdu.com (Expires: Jan. 2022, ID: 895555)</li></ul><h2 style="color: #00FFFF;">_&gt; PROJECTS_</h2><p>My current directives are focused on advancing several innovative projects. Details and code repositories will be linked here once they reach optimal operational status.</p><p align="center" style="font-size: 0.9em; margin-top: 40px;"><span style="color: #BE29EC;">_SYSTEM STATUS: ONLINE_</span></p></div>
+<div style="font-family: 'Consolas', 'Monospace', monospace; color: #00FF00; background-color: #0A0A0A; padding: 25px; border-radius: 12px; border: 2px solid #00FFFF; box-shadow: 0 0 15px #00FFFF;">
+
+<h1 align="center" style="color: #FF00FF;">INITIATING CORE PROTOCOL // [ LEONARDO.GELVES ] </h1>
+<p align="center" style="font-size: 1.3em;"><span style="color: #00FFFF;">&gt;&gt; **ACCESS GRANTED: FULL-STACK ARCHITECT ONLINE**</span></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-gelves" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Contact" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/tu-usuario" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" style="margin-right: 10px;"/>
+  </a>
+</p>
+
+---
+
+## &gt; &gt; **OVERVIEW: [ DIGITAL NEXUS STATUS ]**
+
+<p style="color: #00FF00;">**[ LEONARDO GELVES ]** es un **Full Stack Developer** con más de **4 ciclos terrestres** de experiencia, especializado en la arquitectura y desarrollo de aplicaciones web y móviles **escalables** y de **alto rendimiento**. Mi foco está en la **calidad del código**, la **eficiencia del sistema** y la entrega de soluciones robustas de principio a fin (del diseño conceptual al **CI/CD**).</p>
+
+<p style="color: #00FF00;">Mi **protocolo operativo** se basa en la **mejora continua**, la **proactividad** y la **sinergia de equipo**. No solo escribo código; **construyo infraestructuras digitales**.</p>
+
+---
+
+## &gt; &gt; **TECH STACK: [ ARSENAL DE COMBATE ]**
+
+<p style="color: #00FFFF;">**// BACKEND_SYSTEMS & INFRASTRUCTURE**</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+<p style="color: #00FFFF;">**// FRONTLINE_INTERFACES & DATA_PROTOCOL**</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Databases"/>
+    <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL Databases"/>
+</p>
+
+<p style="color: #00FFFF;">**// CLOUD_COMPUTING & DEPLOYMENT**</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+</p>
+
+---
+
+## &gt; &gt; **EXPERIENCE: [ DEPLOYMENT HISTORY ]**
+
+<p style="color: #FF00FF;">&gt; **4+ AÑOS** en desarrollo Full Stack. Mi trayectoria abarca desde el diseño de **arquitecturas monolíticas a microservicios** hasta la implementación de interfaces de usuario intuitivas y **responsive**. Experto en la gestión de ciclos de desarrollo (**SDLC**) completos y en la **optimización de performance** de aplicaciones de alta concurrencia.</p>
+
+---
+
+## &gt; &gt; **CERTIFICATIONS: [ ACADEMIC LOGS ]**
+
+<ul style="list-style-type: '⚡ '; padding-left: 20px; color: #00FF00;">
+  <li>**[FRAMEWORK_MASTERY]** Spring Framework 6 & Spring Boot 3 - Udemy (ID: UC-906c0317...)</li>
+  <li>**[NET_ARCHITECTURE]** Arquitectura de Aplicaciones Empresariales con .NET 8 - Udemy (ID: UC-ba9c1a5b...)</li>
+  <li>**[VERSION_CONTROL]** Curso Profesional de Git y GitHub - Platzi (ID: 4946322d...)</li>
+  <li>**[BACKEND_API]** Curso API REST con NodeJS, Express, MongoDB y JWT - Cursa (ID: u1554911)</li>
+  <li>**[CLOUD_PROTOCOL]** AWS Educate Introduction to Cloud 101 - Amazon Web Services (AWS)</li>
+  <li>**[AGILE_METHODOLOGY]** Scrum Fundamentals Certified - Vabro.ai and VMEdu.com (ID: 895555)</li>
+  <li style="color: #888;">*Más registros en la base de datos de formación.*</li>
+</ul>
+
+---
+
+## &gt; &gt; **PROJECTS: [ CURRENT DIRECTIVES ]**
+
+<p style="color: #FF00FF;">**// STATUS: IN_PROGRESS**</p>
+<p style="color: #00FF00;">Actualmente, en fase de **ejecución y pruebas** en varios proyectos de **innovación**. Los repositorios y detalles de arquitectura serán revelados una vez alcancen la **versión 1.0 (producción estable)**.</p>
+<p style="color: #00FFFF;">_&gt; **[ DATA_FETCHING... ]**_</p>
+
+---
+
+<p align="center" style="font-size: 1.1em; margin-top: 30px; color: #FF00FF;">**// LOGOUT_SEQUENCE_INITIATED...**</p>
+<p align="center" style="font-size: 1.1em; color: #00FFFF;">**[ SYSTEM_STATUS: NOMINAL ]**</p>
+</div>
